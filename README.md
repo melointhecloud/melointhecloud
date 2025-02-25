@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Hello! I'm Lucas Antonio, a Systems Analysis and Development student, passionate about technology and programming.<br><br>- 📚 Currently studying C++ and JavaScript, along with HTML and CSS, with an interest in web and software development. <br>- ⚡ No meu tempo livre gosto de ler sobre novas tecnologias e sempre aprimorar minhas habilidades. </p>
+<p align="left">Hello! I'm Lucas Antonio, a Systems Analysis and Development student, passionate about technology and programming.<br><br>- 📚 Currently studying C++ and JavaScript, along with HTML and CSS, with an interest in web and software development. <br>- ⚡ In my free time I like to read about new technologies and always improve my skills. </p>
 
 ###
 
