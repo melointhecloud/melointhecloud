@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">Hello! I'm Lucas Antonio, a Systems Analysis and Development student, passionate about technology and programming.<br><br>- 💼 I'm looking for opportunities in full stack development, covering frontend, backend and web infrastructure.<br>- 📚 Currently studying C++ and JavaScript, along with HTML and CSS, with an interest in web and software development.<br>- ⚡ In my free time I like to read about new technologies and always improve my skills.</p>
+<p align="left">Hello! I'm Lucas Antonio, a Systems Analysis and Development student, passionate about technology and programming.<br><br>- 💼 I'm looking for opportunities in full stack development, covering frontend, backend and web infrastructure.<br>- 📚 Currently studying C++ and JavaScript, as well as HTML and CSS, with an interest in web and software development and in the future I intend to specialize in AI.<br>- ⚡ In my free time I like to read about new technologies and always improve my skills.</p>
 
 ###
 
