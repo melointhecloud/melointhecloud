@@ -1,23 +1,11 @@
 <div align="center">
-  <img height="150" src=""  />
-</div>
-
-###
-
-<div align="center">
-  <a href="discord.com/users/1258979997549461627" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-antonio-50721a353/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-melo-sol/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://w.app/5lhbj9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-  <a href="mailto:lucasantonio100700@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Lucas!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato%20para%20conversarmos%20sobre%20oportunidades%20de%20colaboração%20ou%20projetos.%20Como%20posso%20ajudar?" target="_blank">
+  <a href="mailto:lucasantonio100700@gmail.com?subject=Contato%20via%20GitHub" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/lukasxp.alt/" target="_blank">
+  <a href="https://www.instagram.com/melointhecloud/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
@@ -43,22 +31,16 @@
 **Operational Leader & Software Engineer** focused on creating solutions that scale businesses through intelligent automation and robust architecture.
 
 - 🛠️ Currently leading operations and architecture at **S.O.L ONE**.
-
 - 🚀 Specialist in **Automation (n8n)** and **Backend (Java Spring Boot, C++)**.
-
 - 🧠 Applying **Generative AI** to optimize operational processes.
-
 - 🎓 Student of Systems Analysis and Development.
 
 ---
 
 ### 🛠️ Technologies and Tools
 - **Back-end:** Java (Spring Boot), C++, Python, Node.js.
-
-- **Automation & AI:** n8n, LangChain, Prompt Engineering.
-
+- **Automation & IA:** n8n, LangChain, Prompt Engineering.
 - **Databases:** PostgreSQL, Supabase, Redis.
-
 - **DevOps/Infrastructure:** Git, Docker, Complex API Integrations. </p>
 
 ###
@@ -70,11 +52,11 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
 ###
@@ -88,3 +70,5 @@
 </div>
 
 ###
+
+---
