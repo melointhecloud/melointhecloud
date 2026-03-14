@@ -38,7 +38,28 @@
 
 ###
 
-<p align="left">Hello! I'm Lucas Antonio, a Systems Analysis and Development student, passionate about technology and programming.<br><br>- 💼 I'm looking for opportunities in full stack development, covering frontend, backend and web infrastructure.<br>- 📚 Currently studying C++ and JavaScript, as well as HTML and CSS, with an interest in web and software development and in the future I intend to specialize in AI.<br>- ⚡ In my free time I like to read about new technologies and always improve my skills.</p>
+<p align="left"># Hi, I'm Lucas Melo 👋
+
+**Operational Leader & Software Engineer** focused on creating solutions that scale businesses through intelligent automation and robust architecture.
+
+- 🛠️ Currently leading operations and architecture at **S.O.L ONE**.
+
+- 🚀 Specialist in **Automation (n8n)** and **Backend (Java Spring Boot, C++)**.
+
+- 🧠 Applying **Generative AI** to optimize operational processes.
+
+- 🎓 Student of Systems Analysis and Development.
+
+---
+
+### 🛠️ Technologies and Tools
+- **Back-end:** Java (Spring Boot), C++, Python, Node.js.
+
+- **Automation & AI:** n8n, LangChain, Prompt Engineering.
+
+- **Databases:** PostgreSQL, Supabase, Redis.
+
+- **DevOps/Infrastructure:** Git, Docker, Complex API Integrations. </p>
 
 ###
 
