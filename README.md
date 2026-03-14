@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left"># Hi, I'm Lucas Melo 👋
+<p align="left"> Hi, I'm Lucas Melo 👋
 
 **Operational Leader & Software Engineer** focused on creating solutions that scale businesses through intelligent automation and robust architecture.
 
